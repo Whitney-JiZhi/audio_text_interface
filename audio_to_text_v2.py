@@ -3,7 +3,7 @@ import speech_recognition as sr
 
 # Define the WhisperAPI endpoint and API key
 whisper_api_endpoint = "https://api.silero.ai/transcription/api/v1/whisper"
-api_key = "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"
+# api_key = put your api key here
 
 # Initialize the speech recognition engine
 r = sr.Recognizer()
